@@ -1,15 +1,13 @@
 Rock, Paper, Scissors Game 🎮
 A classic Rock, Paper, Scissors game built with HTML, CSS, and JavaScript. The first player (either the user or the computer) to win three rounds is declared the winner!
 
-Features
+Features:
 Interactive Gameplay: Users can click on rock, paper, or scissors to make their move.
 Responsive Design: The game layout is responsive and works on various screen sizes.
 Winner Announcement: The game automatically announces the winner once either the user or the computer wins three rounds.
 Play Again: After the game ends, users can restart the game with a "Play Again" button.
 
-Getting Started
-Prerequisites
-A modern web browser (Chrome, Firefox, Safari, etc.)
+Preview: You can get a preview of the page here: https://brunacaricio.github.io/rock-paper-scissors-js/
 
 How It Works
 The game randomly selects a move for the computer.
